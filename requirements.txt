@@ -1,0 +1,14 @@
+
+pdfplumber
+python-docx
+nltk
+scikit-learn
+fastapi
+requests
+beautifulsoup4
+shutil
+pdf2image
+pytesseract
+joblib
+sentence-transformers
+google-generativeai
